@@ -13,6 +13,6 @@ st.title('music-genre-prediction_team_7')
 st.dataframe(TRAIN)
 st.dataframe(TEST)
 
-IF name == "__main__":
-main()
+# IF name == "__main__":
+# main()
 
